@@ -1,3 +1,17 @@
+// I2C device including the folowing sensors and devices:
+// BMP180, GY271, I2C Fuel Gauge with MAX17043 ,DS18B20
+// RTC DS1307+ , I2C SSD1306 128x64 display
+// Arduino ProMini 3,3V at 8Mhz ATmega328, and TP4056 charger with build in protection
+// 
+// By JonnyRadu, YO3IGH,  https://plus.google.com/u/0/+IonutRaducanu/posts/p/pub
+// This work is released to Public Domain
+// First published on June, 28th 2015 on
+// https://plus.google.com/+IonutRaducanu/posts/6A5D19QYb4f
+// This code can be used for free but I will appreciate if you mention the author.
+// Thanks Jon
+
+
+
 //************************************ LIBRARIES ***************************************** 
 #include <SPI.h>
 #include <Wire.h>
