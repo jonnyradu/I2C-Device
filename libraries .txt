@@ -1,0 +1,10 @@
+ <SPI.h>
+ <Wire.h>
+ <RTClib.h>
+ <OneWire.h>
+ <MAX17043.h>
+ <HMC5883L.h>
+ <Adafruit_GFX.h>
+ <Adafruit_BMP085.h>
+ <Adafruit_SSD1306.h>
+ <DallasTemperature.h>
